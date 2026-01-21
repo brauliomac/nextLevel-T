@@ -41,6 +41,7 @@ a {
     min-height: 80vh;
 
 } 
+
 /*
 .hero-card {
   background: rgba(255, 255, 255, 0.95);
@@ -98,11 +99,8 @@ a {
   margin-left: 87px;
 }
 
+/* O que oferecemos */
 
-
-
-
-/* Banner roxo (oferecemos) */
 .oferecemos-banner {
   background: var(--swu-primary);
 }
@@ -114,12 +112,24 @@ a {
   box-shadow: 0 12px 35px rgba(15, 23, 42, 0.08);
 }
 
-/* Avatar simples */
 .avatar {
   width: 32px;
   height: 32px;
   border-radius: 50%;
   background: #ddd;
+}
+
+.oferecemos-bg {
+  background-image: url("./../img/img1.png");
+  background-repeat: no-repeat;
+  height: 860px;
+  background-size: cover;
+  background-position: center;
+}
+
+.oferecemos-height {
+  height: 460px;
+ 
 }
 
 /* Footer */
