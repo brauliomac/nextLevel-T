@@ -74,10 +74,33 @@ a {
 }
 
 /* section nossos clientes*/
+
 .google-subtitle {
   margin-top: -30px;
   margin-left: 75px;
 }
+
+.dell-title {
+  margin-left: 15px;
+}
+
+.dell-subtitle {
+  margin-top: -20px;
+  margin-left: 70px;
+}
+
+.related-title {
+  margin-left: 15px;
+}
+
+.related-subtitle {
+  margin-top: -20px;
+  margin-left: 87px;
+}
+
+
+
+
 
 /* Banner roxo (oferecemos) */
 .oferecemos-banner {
