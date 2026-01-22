@@ -105,9 +105,9 @@ a {
   background: var(--swu-primary);
 }
 
-/* Cards gerais */
+/* Cards gerais */ 
 .swu-card {
-  border-radius: 20px;
+  border-radius: 10px;
   border: 1px solid #e5e7eb;
   box-shadow: 0 12px 35px rgba(15, 23, 42, 0.08);
 }
@@ -129,7 +129,16 @@ a {
 
 .oferecemos-height {
   height: 460px;
- 
+}
+
+.oferecemos-height2 {
+  margin-top: -574px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.oferecemos-height3 {
+  margin-left: 0px;
 }
 
 /* Footer */
