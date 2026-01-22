@@ -194,4 +194,10 @@ a {
   .app-download {
     max-width: 140px;
   }
+
+  .section-title-mobile {
+    font-size: 1.2rem;
+    color: #403CCF;
+    text-align: center;
+  }
 }
