@@ -7,24 +7,31 @@ Site de recrutamento desenvolvido com **HTML5**, **CSS3**, **Bootstrap 5**.
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
 
 
-## **Como executar **
+## **Como executar**
 
 ### **1. Clonar o repositório**
 
 git clone https://github.com/brauliomac/nextLevel-T
 
 
-### **2. Executar **
+### **2. Executar**
 
 Abrir o aquivo: index.html
 
 
-#### **Estrutura**
+##  **Estrutura do Projeto**
 
-├── index.html      # Página principal
-├── css/style.css   # Estilos customizados
-├── js/main.js      # JavaScript
-└── img/            # Imagens e ícones
+```
+nextLevel-T/
+├── index.html                    # Página principal (Single Page)
+├── css/
+│   └── style.css                 # Estilos customizados
+├── js/
+│   └── main.js                   # Funcionalidades JS
+├── img/                          # Assets (substituir pelas suas imagens)
+└── README.md                     # Este arquivo
+```
 
-#### **Autor**
+
+## **Autor**
 Bráulio Machado
