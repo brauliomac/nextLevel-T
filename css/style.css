@@ -37,8 +37,8 @@ a {
   color: #76C7DB;
 }
 
-.color-light{
-  color: #EBECE7;
+.bg-light {
+  background-color: #EBECE7 ;
 }
 
 /* Navegação*/
@@ -181,9 +181,17 @@ a {
   color: #9ca3af;
 }
 
+.app-download {
+  max-width: 160px;
+}
+
 /* Responsividade */
 @media (max-width: 767.98px) {
   .hero-title {
     font-size: 1.9rem;
+  }
+
+  .app-download {
+    max-width: 140px;
   }
 }
