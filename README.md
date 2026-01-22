@@ -28,7 +28,7 @@ nextLevel-T/
 │   └── style.css                 # Estilos customizados
 ├── js/
 │   └── main.js                   # Funcionalidades JS
-├── img/                          # Assets (substituir pelas suas imagens)
+├── img/                          # imagens
 └── README.md                     # Este arquivo
 ```
 
