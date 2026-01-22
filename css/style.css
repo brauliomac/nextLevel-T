@@ -8,7 +8,7 @@
 /* Geral */
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: "Roboto", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: #222;
 }
 
@@ -23,6 +23,22 @@ a {
 
 .section-subtitle {
   color: var(--swu-gray);
+}
+
+.color-purple {
+  color: #403CCF;
+}
+
+.bg-purple {
+  background-color: #403CCF;
+}
+
+.color-lightblue {
+  color: #76C7DB;
+}
+
+.color-light{
+  color: #EBECE7;
 }
 
 /* Navegação*/
@@ -142,9 +158,9 @@ a {
 }
 
 /* Footer */
-.swu-footer {
-  background: #111827;
-  color: #e5e7eb;
+.bg-footer {
+  background: #242430;
+  color: #e5e7eb;;
 }
 
 .footer-title {
